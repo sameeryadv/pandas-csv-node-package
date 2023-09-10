@@ -13,5 +13,6 @@
     "read_csv"
   ],
   "author": "Sameer Yadav",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": "sameeryadv/pandas-csv-node-package"
 }
