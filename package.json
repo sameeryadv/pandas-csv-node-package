@@ -1,0 +1,17 @@
+{
+  "name": "pandas-csv-node",
+  "version": "1.0.0",
+  "description": "A node package which has similar functionalities as pandas.read_csv() in python",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "csv",
+    "pandas",
+    "read_csv"
+  ],
+  "author": "Sameer Yadav",
+  "license": "ISC"
+}
