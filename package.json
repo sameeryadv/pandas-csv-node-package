@@ -1,6 +1,6 @@
 {
   "name": "pandas-csv-node",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A node package which has similar functionalities as pandas.read_csv() in python",
   "main": "index.js",
   "type": "module",
@@ -14,5 +14,5 @@
   ],
   "author": "Sameer Yadav",
   "license": "ISC",
-  "repository": "sameeryadv/pandas-csv-node-package"
+  "repository": "sayymeer/pandas-csv-node-package"
 }
